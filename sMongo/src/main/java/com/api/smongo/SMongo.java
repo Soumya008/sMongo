@@ -64,6 +64,4 @@ public class SMongo {
 	public void setDb(String db) {
 		this.db = db;
 	}
-	
-	
 }
